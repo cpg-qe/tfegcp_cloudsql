@@ -33,7 +33,7 @@ variable "deletion_protection" {
 }
 
 variable "name" {
-  default = "main-instance-removeit"
+  default = "main-instance-removeittestctt"
 }
 
 
